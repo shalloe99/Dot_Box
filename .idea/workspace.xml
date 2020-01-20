@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a87a404d-5219-49cf-b231-08f40f90acf5" name="Default Changelist" comment="" />
+    <list default="true" id="a87a404d-5219-49cf-b231-08f40f90acf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dot_Box/Login$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dot_Box/Login$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dot_Box/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dot_Box/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/README.md" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="74" column="57" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
+            <state relative-caret-position="34">
+              <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="160">
+              <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -47,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Division.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
+            <state relative-caret-position="269">
               <caret line="85" column="57" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
             </state>
           </provider>
@@ -56,8 +65,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1887">
-              <caret line="128" column="53" selection-start-line="128" selection-start-column="53" selection-end-line="128" selection-end-column="53" />
+            <state relative-caret-position="322">
+              <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EdgeComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+              <folding>
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SelectPVP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1955">
+            <state relative-caret-position="130">
               <caret line="122" column="58" selection-start-line="122" selection-start-column="58" selection-end-line="122" selection-end-column="58" />
             </state>
           </provider>
@@ -74,17 +100,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SelectMVM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2686">
+            <state relative-caret-position="2839">
               <caret line="170" column="57" selection-start-line="170" selection-start-column="57" selection-end-line="170" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SelectPVM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="884">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -118,10 +144,17 @@
       <find>new_squares</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shawn" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/MusicPlayer.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/PVP.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/PVM.java" />
@@ -133,27 +166,29 @@
         <option value="$PROJECT_DIR$/src/RectangleComponent.java" />
         <option value="$PROJECT_DIR$/src/MVM.java" />
         <option value="$PROJECT_DIR$/src/LoginListener.java" />
-        <option value="$PROJECT_DIR$/src/Login.java" />
         <option value="$PROJECT_DIR$/src/Hall.java" />
         <option value="$PROJECT_DIR$/src/Division.java" />
         <option value="$PROJECT_DIR$/src/Mode.java" />
         <option value="$PROJECT_DIR$/src/SelectPVP.java" />
         <option value="$PROJECT_DIR$/src/SelectMVM.java" />
         <option value="$PROJECT_DIR$/src/SelectPVM.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Login.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="387" />
-    <option name="y" value="-15" />
-    <option name="width" value="1641" />
-    <option name="height" value="891" />
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -167,14 +202,20 @@
               <item name="Dot_Box" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Dot_Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dot_Box" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -228,7 +269,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="1" />
@@ -236,16 +276,16 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2834008" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.024291499" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41740674" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.30373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50040483" side_tool="true" visible="true" weight="0.30373" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.330373" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -286,6 +326,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Create README.md&#10;Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create README.md&#10;Initial commit" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/OneDrive/Desktop/Java Projects/Java Projects/src/Main.java" />
     <entry file="file://$USER_HOME$/OneDrive/Desktop/Java Projects/Java Projects/src/Login.java" />
@@ -317,21 +362,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/MVM.java" />
-    <entry file="file://$PROJECT_DIR$/src/EdgeComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -360,6 +390,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectMVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="170" column="57" selection-start-line="170" selection-start-column="57" selection-end-line="170" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectPVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -369,53 +413,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="57" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
+        <state relative-caret-position="34">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="1041" column="42" selection-start-line="1041" selection-start-column="42" selection-end-line="1041" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="160">
+          <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Division.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
+        <state relative-caret-position="269">
           <caret line="85" column="57" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1887">
-          <caret line="128" column="53" selection-start-line="128" selection-start-column="53" selection-end-line="128" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SelectPVP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
+        <state relative-caret-position="130">
           <caret line="122" column="58" selection-start-line="122" selection-start-column="58" selection-end-line="122" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelectMVM.java">
+    <entry file="file://$PROJECT_DIR$/src/Mode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="170" column="57" selection-start-line="170" selection-start-column="57" selection-end-line="170" selection-end-column="57" />
+        <state relative-caret-position="322">
+          <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelectPVM.java">
+    <entry file="file://$PROJECT_DIR$/src/EdgeComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="119">
+          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding>
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

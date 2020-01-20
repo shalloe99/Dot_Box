@@ -69,7 +69,8 @@ public class Login {
             //为按钮一设置事件接收器
 
             public void actionPerformed(ActionEvent e)
-            { if(jt.getText().equals("黄德淳")&&jp.getText().equals("123456")) {
+            {   // Add security system
+                //if(jt.getText().equals("黄德淳")&&jp.getText().equals("123456")) {
                  //开启
                 play.stop();
                 MusicPlayer play = new MusicPlayer("src\\Project\\BackgroundMusic\\I.mp3");
@@ -80,7 +81,7 @@ public class Login {
 
                 // 通过我们获取的登录界面对象，用dispose方法关闭它
 
-            }
+                //}
             }
         });
 
